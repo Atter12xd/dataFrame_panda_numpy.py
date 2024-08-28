@@ -2,7 +2,7 @@ import pandas as pd
 
 # Crear un diccionario con los datos
 datos = {
-    'Nombre': ['Juan', 'Ana', 'Luis', 'Marta'],
+    "Nombre": ['Juan', 'Ana', 'Luis', 'Marta'],
     'Edad': [15, 14, 16, 15],
     'Nota': [8.5, 9.0, 7.5, 8.0]
 }
